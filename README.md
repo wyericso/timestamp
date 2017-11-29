@@ -1,2 +1,1 @@
-# timestamp
-timestamp microservice as freeCodeCamp backend challenge
+# Backend Challenges boilerplate - package.json
